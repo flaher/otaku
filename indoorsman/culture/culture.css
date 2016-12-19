@@ -1,0 +1,73 @@
+
+/*===================前面的文字================*/
+.cultureNav {
+    padding-left: 10px;
+    height: 30px;
+}
+.cultureNav li {
+    float: left;
+}
+
+.cultureNav li:last-child {
+    font-size: 13px;
+}
+.cultureNav i {
+    padding: 0 15px;
+    color: #c0c0c0;
+    font-size: 14px;
+}
+.cultureLi{
+    color: red;
+}
+.da{
+    margin-left: -9px;
+    margin-right: 5px;
+    color: red;
+}
+.cultureNav a {
+    text-decoration: none;
+}
+
+.cultureNav a:active {
+    color: blue;
+}
+.cultureNav a:hover {
+    color: white;
+}
+
+.cultureNav a:link {
+    color: darkgray;
+}
+
+/*.cultureNav a:visited {
+    color: yellow;
+}
+*/
+
+/*===================前面的文字结束================*/
+
+/*图片*/
+.cultureImg {
+   margin-left: -12px;
+    padding-left: 0;
+}
+.cultureImg li{
+    float: left;
+    margin-left: 15px;
+}
+
+/*杂谈*/
+.tattle{
+    display: -webkit-flex; /* Safari */
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+

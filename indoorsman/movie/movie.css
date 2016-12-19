@@ -1,0 +1,74 @@
+/*==================标签,选项卡=====================*/
+#myTab {
+    padding-bottom: 3px;
+}
+
+#myTab li.active > a {
+    border: 1px solid gray;
+    color: white;
+    background-color: #FF5E89;
+}
+
+#myTab > li a {
+    color: white;
+    background-color: #101010;
+    border: solid 1px grey;
+    font-size: 13px;
+}
+
+#myTab > li a:hover {
+    color: white;
+    border: solid 1px white;
+}
+
+/*==================标签,选项卡结束=====================*/
+
+/*轮播图*/
+.str {
+    width: 52.5px;
+    height: 22px;
+    background-image: url("img/jinLing.png");
+    background-position: -893px -2393px;
+    background-position-x: -893px;
+    background-position-y: -2393px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-family: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    line-height: 22px;
+    color: inherit;
+}
+
+.caption {
+    margin-left: 20px;
+}
+
+.caption a {
+    width: 80%;
+    background-color: #FE8A4B;
+    border: none;
+}
+
+/*电影图片*/
+.tab-content {
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

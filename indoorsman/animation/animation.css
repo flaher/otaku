@@ -1,0 +1,128 @@
+/*==============初始化=================*/
+/*#animattionCol10{*/
+/*padding: 0;*/
+/*}*/
+/*#animattionCol10{*/
+/*margin-left: -12px;*/
+/*}*/
+/*#animattionSwitch{*/
+/*padding: 0;*/
+/*}*/
+
+.animateMi {
+    height: 60px;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid black;
+    padding-top: 6px;
+    background-color: mediumvioletred;
+}
+
+/*150  + 480 */
+.animateMi ul {
+    width: 630px;
+}
+
+.animateMi ul li {
+    margin-right: 15px;
+    /*margin-left: 10px;*/
+    background-color: #00b3ee;
+
+}
+
+.animateMi img {
+    width: 15%;
+    height: 15%;
+    float: left;
+    /*margin-right: 6px;*/
+}
+
+/*右边*/
+
+.rightImg img {
+    width: 200px;
+    height: 112px;
+    background-color: red;
+    margin-left: 20px;
+
+}
+
+.rightImg img:nth-child(n+2) {
+    margin-top: 15px;
+}
+
+/*中间部分*/
+
+.chase {
+
+    margin-top: 20px;
+    margin-left: 0;
+    background: url("img/z.png") 0 center no-repeat;
+    height: 45px;
+    width: 98%;
+    line-height: 45px;
+    text-indent: 36px;
+    color: #ccc;
+    font-size: 22px;
+    font-weight: bold;
+    border-bottom: 2px solid brown;
+
+}
+
+.chase2 {
+    width: 99%;
+    padding: 0;
+    margin-top: 12px;
+}
+
+.look {
+    height: 35px;
+    background-color: #555;
+    color: #1ddbdd;
+    font-size: 18px;
+    text-align: center;
+    line-height: 35px;
+    cursor: pointer;
+}
+
+/*轮播右侧*/
+.rightImg {
+    padding-left: 30px;
+    padding-right: -10px;
+    padding-bottom: 7px;
+}
+
+.rightImg img {
+    margin-left: 10px;
+}
+
+.aniList p {
+    color: #EEE;
+}
+
+.aniList span {
+    color: #aaa;
+}
+
+.fanImg {
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
